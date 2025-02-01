@@ -39,3 +39,7 @@ We move into working with brag and create a minimalistic example that provides t
 ## Section 04 -- Operator Precedence
 
 A demonstration of how to implement operator precedence, illustrated by a calculator based on template of the previous section.
+
+## Section 05 -- Extending with Macros
+
+Up until this point we've largely ignored or hand-waved macros, but they are a useful tool for adding extended functionality. Here we give an examples of typed macros to create a simple representation of inductive types.
