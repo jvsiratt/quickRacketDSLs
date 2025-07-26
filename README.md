@@ -2,6 +2,9 @@
 
 My quick reference for making lexers, parsers, and readers, in Racket.
 
+*Acknowledgments* :
+This repo is a personal learning resource, and I did not systematically track all the materials I learned from while creating it. In addition to the excellent official documentation for Racket and Typed Racket, and the Beautiful Racket web text, I’ve benefited greatly from various blogs, forum discussions, code snippets, and examples shared online. If something here closely resembles an existing public resource, it's likely because I studied it, learned from it, and adapted or recreated it for my own understanding.
+
 ## Justification
 
 While I have been learning how to make Racket do strange and wonderful things, I've covered a lot of material rapidly. 
